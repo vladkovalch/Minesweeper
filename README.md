@@ -1,4 +1,4 @@
-# Minesweeper
-Implementation of Minesweeper Game
+### Overview
+This project is a terminal-based version of the classic Minesweeper game, implemented in C++.
 
-<a href="https://github.com/WahahaQ/Minesweeper/releases">Release</a>
+<img src="/docs/images/demo.gif"/>
